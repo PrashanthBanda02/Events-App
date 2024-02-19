@@ -1,0 +1,28 @@
+.event-card-container {
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.event-img {
+  height: 150px;
+  width: 200px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.event-name {
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  margin: 0px;
+}
+.event-location {
+  font-size: 10px;
+  color: white;
+  margin: 0px;
+}

@@ -1,0 +1,85 @@
+.status-view-container {
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.no-active-view-heading {
+  color: #64748b;
+  font-size: 40px;
+}
+
+.yet-to-register-View-container {
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.yet-to-register-img {
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+}
+
+.yet-to-register-heading {
+  font-size: 30px;
+  color: #64748b;
+}
+.register-button {
+  height: 30px;
+  width: 150px;
+  background-color: blue;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registered-View-container {
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.registered-img {
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+.registered-heading {
+  font-size: 40px;
+  color: black;
+}
+
+.registrations-closed-View-container {
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.registrations-closed-img {
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+}
+.registrations-closed-heading {
+  font-size: 40px;
+  color: black;
+}
+
+.registrations-closed-para {
+  font-size: 20px;
+  color: #64748b;
+}
